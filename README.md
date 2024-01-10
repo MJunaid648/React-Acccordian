@@ -22,8 +22,11 @@ A simple React accordion app for displaying frequently asked questions (FAQs). T
 
    ```
 
-2. Navigate to the project directory:  
+2. Navigate to the project directory:
+
+   ```bash
    cd react-accordion-faq
+   ```
 
 3. Install dependencies:
    npm install
