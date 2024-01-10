@@ -29,7 +29,9 @@ A simple React accordion app for displaying frequently asked questions (FAQs). T
    ```
 
 3. Install dependencies:
+   ```bash
    npm install
+   ```
 
 ### Usage
 
