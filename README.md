@@ -2,6 +2,8 @@
 
 A simple React accordion app for displaying frequently asked questions (FAQs). The app allows users to toggle between single and multi-selected answer views.
 
+[LIVE HERE](https://react-accordian-by-junaid.netlify.app/)
+
 ## Features
 
 - **Accordion Interface:** Click on a question to reveal its answer.
