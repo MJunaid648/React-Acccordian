@@ -30,7 +30,9 @@ A simple React accordion app for displaying frequently asked questions (FAQs). T
 
 ### Usage
 
-    npm start
+```bash
+  npm start
+```
 
 ### Technologies Used
 
